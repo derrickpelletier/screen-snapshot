@@ -1,7 +1,7 @@
 {
   "name": "screen-snapshot",
   "version": "0.0.1-alpha",
-  "description": "Drop-in visual regression snapshot tester.",
+  "description": "Drop-in visual regression snapshot diffing.",
   "main": "index.js",
   "scripts": {},
   "author": "Derrick Pelletier",
